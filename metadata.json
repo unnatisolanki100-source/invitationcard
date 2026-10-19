@@ -1,0 +1,8 @@
+{
+  "name": "Griha Pravesh Invitation - Solanki Family",
+  "description": "Animated Griha Pravesh ceremony invitation for Mr. Pankaj Solanki & Mrs. Mittal Solanki's new home celebration in Vadodara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
